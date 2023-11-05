@@ -4,15 +4,15 @@
 
 1. Create Unity project (it will be used for the FPS game)
 2. Compose scene similar to the one shown on the screen shot
-	a. Floor (advised size 50x50)
-	b. 4 external walls (advised height 4)
-	c. 6 internal walls (advised height 3)
+	1. Floor (advised size 50x50)
+	2. 4 external walls (advised height 4)
+	3. 6 internal walls (advised height 3)
 3. Add “Player” (“Capsule” object)
 4. Add two simple structures of your choice (e.g., like “Fan” on the screenshot). Be creative!
 5. Add lights
-	a. Directional light angled from top-side (intensity 0.6)
-	b. Four point lights at corners (adjust range and intensity)
-	c. One point light in the middle above the scene (adjust range and intensity)
+	1. Directional light angled from top-side (intensity 0.6)
+	2. Four point lights at corners (adjust range and intensity)
+	3. One point light in the middle above the scene (adjust range and intensity)
 6. Create “HelloWorld” script and add it to some scene object (verify its peration in console tab)
 7. Create a class called player with the following structure:
 	a. Properties:
